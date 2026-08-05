@@ -1,3 +1,3 @@
 # Mythical Money
 
-## By [il798li]
+## By Idli Robot
